@@ -1,0 +1,1 @@
+This project is for my assignment in OpenClassrooms - Learn to code with Javascript course
